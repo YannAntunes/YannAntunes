@@ -31,15 +31,9 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e experiências 
 ## 📊 Estatísticas GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YannAntunes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YannAntunes&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=YannAntunes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YannAntunes&layout=compact&theme=tokyonight"/>
 </div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=YannAntunes&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-
 ## 🌐 Vamos nos Conectar!
 
 <div align="center">
