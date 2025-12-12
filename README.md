@@ -36,7 +36,7 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e experiências 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YannAntunes&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=YannAntunes&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 
